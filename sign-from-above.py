@@ -5,7 +5,6 @@ import random
 import sys
 import os
 
-#
 def resource_path(relative_path):
     try:
        
