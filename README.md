@@ -57,7 +57,8 @@ pip install pillow
 python sign-from-above.py
 ```
 
-**Screenshots 'cause why not**
+---
+## Screenshots 'cause why not ##
 ![Screenshot](assets/SS1.png)
 ![Screenshot](assets/SS2.png)
 
