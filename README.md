@@ -13,6 +13,7 @@ So here’s the deal: I didn’t plan this. I was learning `tkinter`, trying to 
 > “What if I just… asked the user their name and greeted them?”
 
 Then:
+
 → “Wait. What if the greeting was... **random**?”  
 → “what if it also showed a cute **image**?”  
 → “LET’S RANDOMIZE THE IMAGE TOO" 😭
@@ -57,7 +58,18 @@ pip install pillow
 python sign-from-above.py
 ```
 
-**Screenshots 'cause why not**
-(assets/SS1.png)
-(assets/SS2.png)
+---
+ ##  ⚠️ Getting the “Windows protected your PC” warning? 
+
+ That’s just Windows Defender being a little dramatic.
+ The `.exe` is **not digitally signed**, which basically means:
+"This wasn’t made by a Verified Developer™ in a corporate bunker somewhere."
+
+ Here's what to do:
+ - Click **"More info" → "Run anyway"** — it’s safe, I promise.
+
+---
+## Screenshots 'cause why not ##
+![Screenshot](assets/SS1.png)
+![Screenshot](assets/SS2.png)
 
